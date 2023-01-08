@@ -1,6 +1,8 @@
 # pothole-detection
 \
-ML model to detect potholes in an images.
+ML model to detect potholes in an images. You can download and implement the model directly.
+\
+Libraries Used: TensorFlow, Keras
 \
 Model Used: AlexNet
 \
